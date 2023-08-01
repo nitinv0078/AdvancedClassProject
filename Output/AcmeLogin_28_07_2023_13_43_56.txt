@@ -1,0 +1,6 @@
+Login successful at timestamp: 07/28/2023 13:43:56
+Work Item File Downloaded at: 07/28/2023 13:44:14
+Reset successfull at: 07/28/2023 13:44:29
+WID 1: 94330005 and Description: Generate Yearly Report for Vendor
+WID 2: 94330000 and Description: Calculate Client Security Hash
+Log out successfull at : 07/28/2023 13:44:37

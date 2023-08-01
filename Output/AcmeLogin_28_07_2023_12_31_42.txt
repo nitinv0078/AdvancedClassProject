@@ -1,0 +1,6 @@
+Login successful at timestamp: 07/28/2023 12:31:42
+Work Item File Downloaded at: 07/28/2023 12:31:58
+Reset successfull at: 07/28/2023 12:32:13
+WID 1: 94329672 and Description: Generate Yearly Report for Vendor
+WID 2: 94329733 and Description: Research Client Check Copy
+Log out successfull at : 07/28/2023 12:32:20

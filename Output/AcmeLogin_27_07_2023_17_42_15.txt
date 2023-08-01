@@ -1,0 +1,6 @@
+Login successful at timestamp: 07/27/2023 17:42:15
+Work Item File Downloaded at: 07/27/2023 17:42:30
+Reset successfull at: 07/27/2023 17:42:44
+WID 1: 94307819 and Description: Verify Account Position
+WID 2: 94307722 and Description: Generate Yearly Report for Vendor
+Log out successfull at : 07/27/2023 17:42:51
